@@ -41,9 +41,10 @@ The wallpaper is here, alongside its working file in pxd. You can download and o
 
 ## iPhone
 
-![sGYQbjv](https://i.imgur.com/sGYQbjv.png)
-
-![JmF9yVO](https://i.imgur.com/JmF9yVO.jpg)
+<p align="center">
+  <img src="https://i.imgur.com/sGYQbjv.png" width=400 />
+  <img src="https://i.imgur.com/JmF9yVO.jpg" width=400 />
+</p>
 
 The iPhone desktop and its working pxd:
 
