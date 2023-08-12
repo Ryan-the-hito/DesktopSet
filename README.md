@@ -1,4 +1,4 @@
-# DesktopSet
+# 🖼️DesktopSet: My Desktop Widgets and Wallpapers
 
 The desktop widget settings for Mac, iPhone and iPad.
 
